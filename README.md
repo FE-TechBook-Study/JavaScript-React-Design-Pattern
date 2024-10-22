@@ -75,5 +75,10 @@
 <br />
 <a href="https://github.com/khakaa">박하린</a>
 </td>
+<td align="center">
+<a href="https://github.com/minpaper-dev"><img height="100px" width="100px" src="https://github.com/minpaper-dev.png""/></a>
+<br />
+<a href="https://github.com/minpaper-dev">윤민지</a>
+</td>
 </tr>
 </table>
